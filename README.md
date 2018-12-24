@@ -1,4 +1,4 @@
 # COMP250A4
 Play Tic Tac Toe AI
 
-Play a game of Tic Tac Toe against a rudimentary AI right on your Terminal!
+Play a game of Connect4 against a rudimentary AI right on your Terminal!
